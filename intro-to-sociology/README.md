@@ -8,6 +8,7 @@
 - [Scope of Sociology](#scope-of-sociology)
 
 - [Test Question](#test-questions)
+- [Assignments](#assignments)
 
 ## What
 
@@ -128,6 +129,17 @@ NOTE: The following are my answers and hence, may not be completely correct.
   This whole situation, although not common,led to the addition of another dimension when studying about castes in India, now we don’t just focus on their type of caste but also whether they are dominant or not in their respective locality. This also makes us realize that when a caste enjoys one form of dominance, it is able to acquire the other forms over time.
 
   Also, the peasants being dominant didn’t remove caste discrimination in Rampura. The peasants didn’t like the Untouchables, didn’t want them to use the same temples or have tiled roofs. Thus, untouchables were opposed and discriminated against by dominant castes, whether it’s Brahmins or peasants.j
+
+# Assignments
+
+This course involved 1 group project which involved writing a term paper in a group of 10 and then doing a presentation on the same. There was no necessity for every group member to speak during the presentation, hence few can focus just on the content. 
+
+- [Group term paper](https://docs.google.com/document/d/1_GdrnxmA9BMS-RJanRVbLnNNkgTBNT5k6mJdBdJmVFI/edit?usp=sharing)
+- [Group presentation slides](https://docs.google.com/presentation/d/1Ga1uxsuB9M5EjYJpmvXrJPMe1n98Zsr59ZiFhf6ak7I/edit?usp=sharing)
+
+Another writeup was required at the end of the course, this had to be done individually. Both the assignments gave topics to choose among from. 
+
+- [Individual term paper](https://docs.google.com/document/d/1al9DJkEJsNnmAMOmABqKiPhyKZgEvbniJRUin1rDI5k/edit?usp=sharing)
 
 ## References 
 
